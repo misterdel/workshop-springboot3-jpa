@@ -8,6 +8,7 @@ public class AulaspringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AulaspringApplication.class, args);
+		
 	}
 
 }
